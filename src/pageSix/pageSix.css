@@ -1,0 +1,98 @@
+.boxModel {
+  display: block;
+  background-color: #26335d;
+  position: relative;
+}
+.cardtext-p {
+  text-align: center;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  color: #8d5cf6;
+}
+.cardtext-h2 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+}
+.cardtext {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+}
+.cardAlign {
+  align-items: center;
+  left: 15%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 20%;
+  margin-bottom: 20%;
+}
+
+.Search-pageSix {
+  box-sizing: border-box;
+  left: 25%;
+  /* position: absolute; */
+  /* left: 25%;
+  right: 0px;
+  top: 100%;
+  bottom: 0px; */
+  background: #f9f9f9;
+  border: 1px solid #e6e6e6;
+  border-radius: 5px;
+  /* height: 20%; */
+}
+
+.SpageSix {
+  box-sizing: border-box;
+  left: 25%;
+  /* position: absolute; */
+  /* left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px; */
+  background: #f9f9f9;
+  border: 1px solid #e6e6e6;
+  border-radius: 5px;
+  width: 72px;
+  height: 28px;
+}
+.button-PageSix {
+  box-sizing: border-box;
+  /* position: absolute;
+  left: 85%;
+  right: 0%;
+  top: 0px;
+  bottom: 0px; */
+  background: #8d5cf6;
+  border: 1px solid #e6e6e6;
+  border-radius: 0px 5px 5px 0px;
+  /* width: 15%; */
+  left: 85%;
+  position: absolute;
+  width: 72px;
+  height: 28px;
+  left: calc(50% - 72px / 2);
+  top: calc(50% - 28px / 2);
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 28px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+}

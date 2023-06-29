@@ -1,0 +1,81 @@
+.boxModel {
+  display: block;
+  background-color: #26335d;
+  position: relative;
+}
+.hr-pageTwo {
+  width: 94px;
+  height: 7px;
+  background: #e74040;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  position: absolute;
+  left: 75%;
+  right: 50%;
+  top: 45%;
+  bottom: 50%;
+}
+.h2-pageTwo {
+  width: 256px;
+  height: 100px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  position: absolute;
+  left: 67%;
+  right: 51%;
+  top: 15%;
+  bottom: 58%;
+}
+.p-pageTwo {
+  width: 351px;
+  height: 60px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+  position: absolute;
+  left: 71%;
+  right: 50%;
+  top: 50%;
+  bottom: 50%;
+}
+/* .cardAlign {
+  align-items: center;
+  left: 15%;
+  margin: 5%;
+} */
+.pageTwo {
+  width: 83px;
+  height: 24px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  color: #8d5cf6;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  position: absolute;
+  position: absolute;
+  left: 72%;
+  right: 49%;
+  top: 76%;
+  bottom: 0%;
+}

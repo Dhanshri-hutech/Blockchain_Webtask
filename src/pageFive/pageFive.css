@@ -1,0 +1,89 @@
+.boxModel {
+  display: block;
+  background-color: #26335d;
+  position: relative;
+}
+
+.cardtexth2 {
+  width: 87px;
+  height: 50px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.cardAlign5 {
+  align-items: center;
+  left: 5%;
+  margin-left: 5%;
+  margin-right: 7%;
+  margin-top: 5%;
+  margin-bottom: 15%;
+}
+.cardpage5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+  width: 333px;
+  height: 151px;
+  background: #ffffff;
+  border-radius: 9px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  position: absolute;
+  left: 0%;
+  right: 4.26%;
+  top: 0%;
+  bottom: 0%;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 20%;
+  margin-bottom: 20%;
+}
+.imgpage5 {
+  position: absolute;
+  left: 0%;
+  right: 4.26%;
+  top: 0%;
+  bottom: 0%;
+  background: #8d5cf6;
+}
+
+.CardpFive {
+  width: 205px;
+  height: 48px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  color: #737373;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.cardtextp {
+  width: 469px;
+  height: 40px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}

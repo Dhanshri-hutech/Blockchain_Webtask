@@ -1,0 +1,138 @@
+.boxModel {
+  display: block;
+  background-color: #26335d;
+  position: relative;
+}
+.cardtext-p {
+  text-align: center;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  color: #8d5cf6;
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 10%;
+  bottom: 0%;
+  margin: 5%;
+}
+.cardtext-h2 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 30%;
+  bottom: 0%;
+  margin: 7%;
+}
+.cardtext {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 50%;
+  bottom: 0%;
+  margin: 12%;
+}
+
+.cardAlign {
+  align-items: center;
+  left: 15%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 20%;
+  margin-bottom: 20%;
+}
+.cardCss {
+  flex-direction: column;
+  align-items: center;
+  padding: 35px 40px;
+  gap: 20px;
+  width: 328px;
+  height: 288px;
+  background: #ffffff;
+  box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.cardimg {
+  position: absolute;
+  left: 50%;
+  right: 0%;
+  top: 13.56%;
+  bottom: 0%;
+}
+.Card-h5 {
+  width: 149px;
+  height: 24px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.1px;
+  color: #252b42;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  position: absolute;
+  left: 40%;
+  right: 0%;
+  top: 32%;
+  bottom: 10%;
+}
+.line-Hr {
+  width: 50px;
+  height: 2px;
+  background: #e74040;
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+  position: absolute;
+  left: 55%;
+  right: 50%;
+  top: 50%;
+  bottom: 50%;
+}
+.Cardp {
+  width: 136px;
+  height: 60px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #737373;
+  flex: none;
+  order: 3;
+  flex-grow: 0;
+  position: absolute;
+  left: 40%;
+  right: 50%;
+  top: 54%;
+  bottom: 50%;
+  text-indent: 5px;
+  word-wrap: break-word;
+}

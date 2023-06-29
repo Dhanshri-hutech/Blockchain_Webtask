@@ -1,0 +1,73 @@
+.boxModel {
+  display: block;
+  background-color: #26335d;
+  position: relative;
+}
+.cardtext-p {
+  text-align: center;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  color: #8d5cf6;
+}
+.cardtext-h2 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+}
+.cardtext {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+}
+.cardpage3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  width: 348px;
+  height: 622px;
+  background: #ffffff;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.imgpage3 {
+  position: absolute;
+  left: 2.5%;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+}
+.pagethree-p {
+  width: 280px;
+  height: 60px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+  color: #737373;
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+  position: absolute;
+  left: 2.5%;
+  right: 0px;
+  top: 58%;
+  bottom: 0px;
+}
